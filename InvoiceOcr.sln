@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOcr", "InvoiceOcr\InvoiceOcr.csproj", "{CCB1D45F-5657-4E3E-9B8F-33B16446FAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB1D45F-5657-4E3E-9B8F-33B16446FAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB1D45F-5657-4E3E-9B8F-33B16446FAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB1D45F-5657-4E3E-9B8F-33B16446FAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB1D45F-5657-4E3E-9B8F-33B16446FAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3E65029-CE17-4A1C-A856-4B85221B0313}
+	EndGlobalSection
+EndGlobal
